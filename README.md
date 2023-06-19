@@ -1,4 +1,4 @@
-# homeworkTwo
+# homeworkTwo problem 1
 
 Development workflows
 =======================
@@ -52,9 +52,10 @@ Here's the folder structure that gets created by `cookiecutter-datascience-simpl
 		│
 		└───output
         └───whatIf.py						<- Here is the python file that has important functions for us to use.
+		└───gill_hw2_problem1.ipynb			<- This is the main notebook file where the work was done.
 Documentation
 --------------
 
-This assignment contains two types of analyses done in Python using data from .csv files. 
+This assignment contains two types of analyses done in Python using data from .csv files, but for this assignment, we will only focus on the first problem (reference the docx file in the docs folder). 
 
 
